@@ -1,0 +1,9 @@
+# MOUSEKEY_ENABLE         = yes
+# RGBLIGHT_ENABLE         = yes
+CONSOLE_ENABLE          = no
+OLED_ENABLE             = yes
+OLED_DRIVER             = ssd1306
+LTO_ENABLE              = yes
+# LEADER_ENABLE           = yes
+# CAPS_WORD_ENABLE        = yes
+BOOTLOADER              = atmel-dfu
